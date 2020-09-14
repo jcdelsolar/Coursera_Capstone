@@ -6,3 +6,5 @@ Nowadays one of the main causes of death in the road are car accidents, these ar
 
 ## Data
 To build this model We will use the shared data of traffic collisions from Seattle City. We will analyze the traffic collisions variables like weather condition, road condition, car speed and light conditions.
+</br>Data will be extracted from: https://s3.us.cloud-object-storage.appdomain.cloud/cf-courses-data/CognitiveClass/DP0701EN/version-2/Data-Collisions.csv 
+</br>The dataset has 194,673 rows with 37 different attributes.
