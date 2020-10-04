@@ -10,4 +10,4 @@ The purpose of this Capstone Project is to build a data science model that would
 This project is designed to help the local authorities take better decisions about car accident prevention and also for the public in general that could use this information as a tool to make better choices in their daily life.
 
 <br>__For more details about the algorithm used please read the Jupyter Notebook file.__
-<br>
+Jupyter Notebook file: https://github.com/jcdelsolar/Coursera_Capstone/blob/master/JDS_Capstone.ipynb
