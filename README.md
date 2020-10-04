@@ -2,7 +2,7 @@
 This repository is to share my work for a Coursera project
 __For more details about the algorithm used please read the Jupyter Notebook file__
 
-## 1. Introduction
+## Introduction
 Nowadays one of the main causes of death in the road are car accidents, these are caused due to known conditions like weather, state of the road, etc.
 
 The purpose of this Capstone Project is to build a data science model that would help Us whether a car accident would cause property damage only or be an injury collision in the worst case scenario.
