@@ -1,6 +1,6 @@
 # Coursera_Capstone
 This repository is to share my work for a Coursera project
-__For more details about the algorithm used please read the Jupyter Notebook file__
+<br>__For more details about the algorithm used please read the Jupyter Notebook file__
 
 ## Introduction
 Nowadays one of the main causes of death in the road are car accidents, these are caused due to known conditions like weather, state of the road, etc.
